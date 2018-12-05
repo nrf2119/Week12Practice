@@ -9,6 +9,7 @@ public class Main {
         win1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         win1.setSize(350, 100);
         win1.setVisible(true);
+        System.out.println("I got this pushed");
         //
     }
 }
